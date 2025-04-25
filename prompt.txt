@@ -1,0 +1,151 @@
+﻿I want you to create a simple rank and rent website in simple html and css 3 pages including the home page, about page and contact page.
+
+
+the homepage should targeVan Delivery UK  keyword
+
+
+the about page should be about be very basic about Van Delivery UK
+
+
+contact page be very basic and include this google form embed:
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdVFdNHziZYHvIrszKB0vcp0KSdptGG2b9-QKSOm-aBS-KppA/viewform?embedded=true" width="640" height="853" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
+
+
+
+
+use at least 500 words for on the homepage 
+
+
+heres a list of keywords I need you to use in the website. please make sure to use keyword at least once:
+
+
+
+
+walsall van hire
+	walsall van rental
+	walsall van sales
+	van driver walsall
+	2 man and a van
+	van hire walsall
+	removals walsall
+	send courier
+	speedy walsall
+	man with a van walsall
+	speedy hire walsall
+	man n van near me
+	same day delivery
+	eco-friendly
+	house moves
+	furniture delivery
+	sustainable transport
+	professional care
+	man and van service
+	packing materials
+	local areas
+	real-time tracking
+	urgent deliveries
+	competitive rates
+	door-to-door service
+	fragile items
+	full house removals
+	local expertise
+	overnight service
+	verified drivers
+	multi-drop services
+	affordable
+	office relocations
+	student moves
+	single item deliveries
+	professional handling
+	flexible scheduling
+	zero additional emissions
+	careful handling
+	insured transport
+	instant online quotes
+	efficient moving
+	time-critical courier
+	express delivery
+	secure transport
+	dedicated direct drive
+	wait and return service
+	weekend delivery
+	specialised goods shipping
+	on-demand courier
+	various vehicle sizes
+	transparent pricing
+	nationwide coverage
+	long-distance moves
+	
+
+walsall delivery driver jobs
+	walsall van hire
+	walsall van rental
+	walsall delivery jobs
+	walsall van sales
+	van driver walsall
+	2 man and a van
+	van hire walsall
+	removals walsall
+	send courier
+	speedy walsall
+	van driver jobs walsall
+	van driving jobs walsall
+	minibus hire walsall
+	man with a van walsall
+	mini bus hire walsall
+	speedy hire walsall
+	man n van near me
+	suitcases
+	luggage
+	same day delivery
+	eco-friendly
+	house moves
+	furniture delivery
+	sustainable transport
+	professional care
+	man and van service
+	packing materials
+	local areas
+	real-time tracking
+	urgent deliveries
+	competitive rates
+	door-to-door service
+	fragile items
+	full house removals
+	local expertise
+	overnight service
+	verified drivers
+	multi-drop services
+	Walsall
+	affordable
+	office relocations
+	student moves
+	single item deliveries
+	professional handling
+	flexible scheduling
+	crowdsourced model
+	zero additional emissions
+	careful handling
+	insured transport
+	instant online quotes
+	West Midlands
+	efficient moving
+	time-critical courier
+	express delivery
+	secure transport
+	dedicated direct drive
+	wait and return service
+	weekend delivery
+	European courier services
+	specialised goods shipping
+	laboratory samples
+	on-demand courier
+	proof of delivery
+	various vehicle sizes
+	transparent pricing
+	nationwide coverage
+	long-distance moves
